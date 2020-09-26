@@ -1,4 +1,4 @@
-# pixiv-crawler
+# pixiv-scraper
 
 ## Requires
 - Requests
